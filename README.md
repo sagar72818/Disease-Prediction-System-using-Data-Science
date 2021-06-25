@@ -3,7 +3,7 @@ Disease Prediction from symptoms using ML algorithms and Neural network.
 
 ///////////////////////////////////////////////////////////////////////////
 
-1. Dataset_disease :=
+1. Dataset_disease :-
    It contains the dataset which I have used. We have taken it from kaggle :-
    https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning
 
