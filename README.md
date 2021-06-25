@@ -21,5 +21,5 @@ Disease Prediction from symptoms using ML algorithms and Neural network.
 
 5. Presentation1.ppt :-
    I have also included the ppt file which I have used for the presentation in my college for this project. You can also refer to this for more understanding of the overall 
-   project idea.
+   project idea with a small video presentation of the GUI part.
    
